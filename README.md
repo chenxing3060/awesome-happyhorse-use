@@ -107,7 +107,7 @@ print(response.json())
 ## 🏗️ Project Structure
 
 ```
-happyhorse1/
+awesome-happyhorse-use/
 ├── README.md                 # English project overview
 ├── README_zh.md              # Full Chinese usage guide
 ├── LICENSE                   # Apache 2.0 License

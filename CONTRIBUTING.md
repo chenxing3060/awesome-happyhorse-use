@@ -8,7 +8,7 @@ Thank you for your interest in contributing to the HappyHorse 1.0 project! This 
 
 If you encounter issues with the documentation or have suggestions for improvement:
 
-1. Check the [existing issues](https://github.com/YOUR_USERNAME/happyhorse1/issues) to avoid duplicates
+1. Check the [existing issues](https://github.com/YOUR_USERNAME/awesome-happyhorse-use/issues) to avoid duplicates
 2. Create a new issue with a clear title and detailed description
 3. Include relevant links, screenshots, or code snippets
 
