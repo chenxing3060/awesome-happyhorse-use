@@ -43,8 +43,8 @@ This is primarily a documentation project. To preview changes locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/happyhorse1.git
-cd happyhorse1
+git clone https://github.com/YOUR_USERNAME/awesome-happyhorse-use.git
+cd awesome-happyhorse-use
 
 # Preview markdown with any markdown editor or use:
 # VS Code with Markdown Preview, or

@@ -84,6 +84,7 @@ print(response.json())
 ## 📚 Documentation
 
 - **[中文使用指南 (Chinese Guide)](README_zh.md)** — Full usage guide with prompt writing tips, case demos, and application scenarios
+- **[Video Demos 🎬](videos/README.md)** — Download all demo videos via GitHub Releases
 - **[Text-to-Video Guide](docs/t2v-guide.md)** — Prompt engineering and best practices for T2V
 - **[Image-to-Video Guide](docs/i2v-guide.md)** — First-frame based video generation
 - **[Reference-to-Video Guide](docs/r2v-guide.md)** — Multi-reference image video generation
