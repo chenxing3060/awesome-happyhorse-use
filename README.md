@@ -113,6 +113,7 @@ awesome-happyhorse-use/
 ├── README_zh.md              # Full Chinese usage guide
 ├── LICENSE                   # Apache 2.0 License
 ├── CONTRIBUTING.md           # Contribution guidelines
+├── videos/                   # Video demo library (download via Releases)
 └── docs/
     ├── t2v-guide.md          # Text-to-Video detailed guide
     ├── i2v-guide.md          # Image-to-Video detailed guide

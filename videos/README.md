@@ -13,7 +13,10 @@
 
 | 文件名 | 提示词摘要 | 下载 |
 |--------|-----------|------|
-| `t2v_01_guofeng_girl.mp4` | 国风2D动漫风格，白发少女，水龙特效 | [下载](../../releases) |
+| `t2v_01_guofeng_girl.mp4` | 国风2D动漫风格，白发少女，水龙特效 | [▶️ 播放](#t2v_01) |
+
+<video src="https://raw.githubusercontent.com/chenxing3060/awesome-happyhorse-use/main/videos/t2v_01_guofeng_girl.mp4" controls width="100%"></video>
+
 | `t2v_02_makoto_shinkai.mp4` | 新海诚风格，夏夜星空少女 | [下载](../../releases) |
 | `t2v_03_minecraft_fight.mp4` | Minecraft方块风格，野猪vs公鸡武术对决 | [下载](../../releases) |
 | `t2v_04_private_jet.mp4` | 私人飞机内，商界大佬的对话对峙 | [下载](../../releases) |

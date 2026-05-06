@@ -53,6 +53,9 @@ HappyHorse 1.0 致力于为创作者与企业提供稳定、高效、可控的�
 | Input (Text) 输入文字 | Output Video 输出视频 |
 | --- | --- |
 | 动漫风格，国风2d风格... | [🎬 t2v_01_guofeng_girl.mp4](videos/README.md#t2v-文生视频) |
+
+<video src="https://raw.githubusercontent.com/chenxing3060/awesome-happyhorse-use/main/videos/t2v_01_guofeng_girl.mp4" controls width="100%"></video>
+
 | 全景，新海诚风格... | [🎬 t2v_02_makoto_shinkai.mp4](videos/README.md#t2v-文生视频) |
 | 主题与动作：一场电影般的武术对决... | [🎬 t2v_03_minecraft_fight.mp4](videos/README.md#t2v-文生视频) |
 | 【场景】奢华的私人飞机机舱内... | [🎬 t2v_04_private_jet.mp4](videos/README.md#t2v-文生视频) |
@@ -79,14 +82,14 @@ HappyHorse 1.0 致力于为创作者与企业提供稳定、高效、可控的�
 
 | Input (Text + Image) 输入文字+首帧图片 | Output Video 输出视频 |
 | --- | --- |
-| 分镜1 (生成4s)：王爷端坐执卷，丫头从旁侧凑近歪头看他。一个清脆俏皮的女声问：王爷不近女色？一个低沉冷淡的男声回：嗯。暖光透过窗棂，书房雅致。固定机位。分镜2 (生成4s)：丫头指尖轻点王爷脸颊，歪头笑。王爷睫毛微颤，执卷手指收紧，仍垂眸看书。俏皮女声：那我呢？男声停顿后：……你也不行。镜头微推。 | [查看视频](https://alidocs.dingtalk.com/i/nodes/93NwLYZXWyxXroNzCQ6qjnNk8kyEqBQm?anchorId=X02mogyr8zvthiucocmb2) |
-| 直播间里，两只猫咪以拟人化形象做搞笑对话，要求写实，使用台湾中年男腔调。银色猫先说话：台词"他说他要当网红"。【1-5秒】画面：银色猫扭头面向金色猫，身子站立，伸着一只前爪，尾巴摇动，动作自然。金色猫说话：台词"靠什么火？"。【5-10秒】画面：金色猫扭头看向银色猫后身子站立，伸着一只爪子，满脸不屑的表情，动作自然。...最后2只猫一起哈哈哈哈哈大笑起来，笑声洪亮，动作表情跟对话内容要严丝合缝。 | [查看视频](https://alidocs.dingtalk.com/i/nodes/93NwLYZXWyxXroNzCQ6qjnNk8kyEqBQm?anchorId=X02mogyr8zv5l2zg39wf8h) |
-| 【镜头一 · 0–4秒】画面从头盔玻璃面罩内侧的水雾与光斑缓缓对焦——那些光点像是遥远星系的残影，或是某种正在消逝的记忆。红色警报光在她脸上有节律地扫过...色调：深红预警 × 冷蓝深空 × 琥珀肤光。镜头如呼吸般起伏，克制而充满张力。 | [查看视频](https://alidocs.dingtalk.com/i/nodes/93NwLYZXWyxXroNzCQ6qjnNk8kyEqBQm?anchorId=X02mogyr8zvlhg7h9mn47i) |
-| 镜头1：高空垂直俯视镜头，银色跑车在S形乡间道路匀速前进...镜头2：镜头和跑车保持同步移动，车头占据画面中心位置，前灯光线在运动中形成光轨... | [查看视频](https://alidocs.dingtalk.com/i/nodes/93NwLYZXWyxXroNzCQ6qjnNk8kyEqBQm?anchorId=X02mogyr8zvnr7zftr4h8s) |
-| The camera slowly pushes into the astronaut's reflective gold visor, where a miniature world is revealed...The entire sequence carries a cinematic film-grain aesthetic, cold and sacred in tone, with subtle handheld camera tremors evoking the rawness of authentic documentary footage. | [查看视频](https://alidocs.dingtalk.com/i/nodes/93NwLYZXWyxXroNzCQ6qjnNk8kyEqBQm?anchorId=X02mogyr8zvb1nxdj9vfgj) |
-| The black and white wavy lines and checkered patterns in the background slowly ripple and distort rhythmically, the blue cartoon character sways slightly along with the motion... | [查看视频](https://alidocs.dingtalk.com/i/nodes/93NwLYZXWyxXroNzCQ6qjnNk8kyEqBQm?anchorId=X02mogyr8zvupyoglcqpda) |
-| The cute teddy bear as it briskly walks forward across the train station platform, pulling its brown suitcase behind it with a sense of urgency. The bear's mouth moves in perfect lip-sync as it hurriedly says: 'There's no time left, I'm going to be late!'... | [查看视频](https://alidocs.dingtalk.com/i/nodes/93NwLYZXWyxXroNzCQ6qjnNk8kyEqBQm?anchorId=X02mogyr8zvae6jbxybbk) |
-| A girl is dancing gracefully. As she spins around in a full turn, the entire scene seamlessly transforms from a cartoon style into a realistic live-action setting. | [查看视频](https://alidocs.dingtalk.com/i/nodes/93NwLYZXWyxXroNzCQ6qjnNk8kyEqBQm?anchorId=X02mogyr8zvmnb6vqwodhi) |
+| 分镜1 (生成4s)：王爷端坐执卷... | [🎬 i2v_01_period_drama.mp4](videos/README.md#i2v-图生视频) |
+| 直播间里，两只猫咪以拟人化形象做搞笑对话... | [🎬 i2v_02_cat_livestream.mp4](videos/README.md#i2v-图生视频) |
+| 【镜头一 · 0–4秒】画面从头盔玻璃面罩内侧... | [🎬 i2v_03_scifi_helmet.mp4](videos/README.md#i2v-图生视频) |
+| 镜头1：高空垂直俯视镜头，银色跑车... | [🎬 i2v_04_sports_car.mp4](videos/README.md#i2v-图生视频) |
+| The camera slowly pushes into the astronaut's reflective gold visor... | [🎬 i2v_05_astronaut_moon.mp4](videos/README.md#i2v-图生视频) |
+| The black and white wavy lines and checkered patterns... | [🎬 i2v_06_cartoon_card.mp4](videos/README.md#i2v-图生视频) |
+| The cute teddy bear as it briskly walks forward... | [🎬 i2v_07_teddy_bear.mp4](videos/README.md#i2v-图生视频) |
+| A girl is dancing gracefully. As she spins... | [🎬 i2v_08_girl_dance.mp4](videos/README.md#i2v-图生视频) |
 
 ### R2V 参考生视频（支持图片输入）
 
@@ -110,11 +113,11 @@ API 中最多支持 9 张图片上传。
 
 | Input (Text + Image) 输入文字+图片 | Output Video 输出视频 |
 | --- | --- |
-| 一张超逼真的4K摄影级画面，场景设定为潮流感满满的播客录音间。...双宠手肘均轻搭桌面，形成稳定的双人主播站位，镜头焦点锐利锁定面部与麦克风区域。基于此高精度底图进行动态口型驱动与表演设计：身份定位为宠物界"吐槽搭子"，对话主题围绕《铲屎官那些"自我感动"的迷惑行为》展开... | [查看视频](https://alidocs.dingtalk.com/i/nodes/93NwLYZXWyxXroNzCQ6qjnNk8kyEqBQm?anchorId=X02moh1bko5lj4n73jip3d) |
-| Generate a Pixar-style video. The camera orbits around a girl sitting at her desk...radiating a state of pure joy and relaxation. | [查看视频](https://alidocs.dingtalk.com/i/nodes/93NwLYZXWyxXroNzCQ6qjnNk8kyEqBQm?anchorId=X02mogyr8zwznr248lxbqi) |
-| 参考 `[图1]` 中的王爷形象与 `[图2]` 中的丫头形象，两人在古风书房场景中互动。`[图1]` 端坐案前执卷看书，神情清冷专注。`[图2]` 身着浅绿纱衣从旁侧悄悄凑近，歪头凝视 `[图1]` 侧脸，眼神试探又带俏皮...真人古风写真风格，电影级光影质感，面部细节清晰。 | [查看视频](https://alidocs.dingtalk.com/i/nodes/93NwLYZXWyxXroNzCQ6qjnNk8kyEqBQm?anchorId=X02moh129yrhfp4e7397cr) |
-| 电影质感，智能分镜，动作流畅自然，画面无崩坏。分镜1（近景3秒）侧面跟拍...分镜4（中景5秒）正面平视。少年瞬间蔫了，少女绷着脸补刀回应说："收收你的垮脸，组织监控正对着咱呢" | [查看视频](https://alidocs.dingtalk.com/i/nodes/93NwLYZXWyxXroNzCQ6qjnNk8kyEqBQm?anchorId=X02moh1mt87eyt475gbiel) |
-| 生成一段韩漫风格、电影感的短视频。夜晚，雨夜便利店，灯光柔和，情绪安静、治愈、微孤独、温柔。开场镜头展示深夜街角的便利店外景...画面停留在安静、温柔、细腻治愈的情绪中结束。 | [查看视频](https://alidocs.dingtalk.com/i/nodes/93NwLYZXWyxXroNzCQ6qjnNk8kyEqBQm?anchorId=X02mogyr8zwo2pg3k4ubtg) |
+| 一张超逼真的4K摄影级画面，宠物播客... | [🎬 r2v_01_pet_podcast.mp4](videos/README.md#r2v-参考生视频) |
+| Generate a Pixar-style video... | [🎬 r2v_02_pixar_girl.mp4](videos/README.md#r2v-参考生视频) |
+| 参考 [图1] 中的王爷形象与 [图2] 中的丫头形象... | [🎬 r2v_03_period_romance.mp4](videos/README.md#r2v-参考生视频) |
+| 电影质感，智能分镜，少年特工对话... | [🎬 r2v_04_young_spies.mp4](videos/README.md#r2v-参考生视频) |
+| 生成一段韩漫风格、电影感的短视频。雨夜便利店... | [🎬 r2v_05_convenience_store.mp4](videos/README.md#r2v-参考生视频) |
 
 ### Video Edit 视频编辑（风格转换/元素替换）
 
@@ -140,12 +143,12 @@ API 中最多支持 9 张图片上传。
 
 | Input (Text + Image + Video) 输入文字+视频+参考图 | Output Video 输出视频 |
 | --- | --- |
-| 参考 Image 1，将视频中女主的衣服替换为图中所示的雾霾蓝明制汉服。汉服必须完全贴合女主的身形轮廓和动作姿态...在此过程中，女主的面部表情、发型、肤色、背景环境以及镜头的运镜轨迹必须保持 100% 不变。 | [查看视频](https://alidocs.dingtalk.com/i/nodes/93NwLYZXWyxXroNzCQ6qjnNk8kyEqBQm?anchorId=X02mogyr8zwjf90tenjn8) |
-| 参考 Image 1，将视频中正在行驶的白色邮轮替换为图中所示的太空飞船。飞船必须完全遵循原邮轮的行驶轨迹、速度和朝向...在替换过程中，周围的背景、水面、天空以及镜头的运镜轨迹必须保持 100% 不变。 | [查看视频](https://alidocs.dingtalk.com/i/nodes/93NwLYZXWyxXroNzCQ6qjnNk8kyEqBQm?anchorId=X02mogyr8zw5gz4fs8g26t) |
-| 参考 Image 1 中的视觉特征，将视频整体风格转化为传统黑白水墨画风格，把画面中的山脉、雾气、建筑等所有元素全部重塑为具有墨色浓淡变化的写意笔触... | [查看视频](https://alidocs.dingtalk.com/i/nodes/93NwLYZXWyxXroNzCQ6qjnNk8kyEqBQm?anchorId=X02mogyr8zwiigz1gg95kd) |
-| Transform the city into a cyberpunk style. | [查看视频](https://alidocs.dingtalk.com/i/nodes/93NwLYZXWyxXroNzCQ6qjnNk8kyEqBQm?anchorId=X02mogyr8zw2iae2a0mz8m) |
-| Transform the entire video into the Minecraft voxel style based on the visual aesthetic of Image 1. Convert all subjects, characters, and the environment into 3D blocks with low-resolution pixelated textures. ...The final result should look like the original scene has been completely rebuilt inside the Minecraft game world. | [查看视频](https://alidocs.dingtalk.com/i/nodes/93NwLYZXWyxXroNzCQ6qjnNk8kyEqBQm?anchorId=X02mogyr8zwe3ng9yt3ze8) |
-| 将视频中猫戴的黑框眼镜替换为参考图中的金丝框眼镜。同时修改猫的动态，让它随着动感的音乐节奏有节奏地左右摇摆头部和身体...在此过程中，必须保持猫的品种外观、背景环境以及镜头的运镜轨迹100%不变。 | [查看视频](https://alidocs.dingtalk.com/i/nodes/93NwLYZXWyxXroNzCQ6qjnNk8kyEqBQm?anchorId=X02mogyr8zwnk422xizgxt) |
+| 参考 Image 1，将视频中女主衣服替换为雾霾蓝明制汉服... | [🎬 edit_01_hanfu_replace.mp4](videos/README.md#video-edit-视频编辑) |
+| 参考 Image 1，将视频中白色邮轮替换为太空飞船... | [🎬 edit_02_spaceship_replace.mp4](videos/README.md#video-edit-视频编辑) |
+| 参考 Image 1 中的视觉特征，视频转为传统黑白水墨画风格... | [🎬 edit_03_ink_wash.mp4](videos/README.md#video-edit-视频编辑) |
+| Transform the city into a cyberpunk style. | [🎬 edit_04_cyberpunk.mp4](videos/README.md#video-edit-视频编辑) |
+| Transform the entire video into the Minecraft voxel style... | [🎬 edit_05_minecraft_voxel.mp4](videos/README.md#video-edit-视频编辑) |
+| 将视频中猫戴的黑框眼镜替换为金丝框眼镜，随音乐摇摆... | [🎬 edit_06_cat_glasses.mp4](videos/README.md#video-edit-视频编辑) |
 
 ---
 
@@ -155,8 +158,8 @@ API 中最多支持 9 张图片上传。
 
 | Input 模型输入 | Output Video 输出视频 |
 | --- | --- |
-| 4s 1080P R2V：参考 `[图片1]` 中的王爷形象与 `[图片2]` 中的丫头形象，两人在古风书房暖光场景中互动。王爷端坐案前执卷看书，神情清冷疏离。丫头身着浅绿纱衣从旁侧凑近...案几一角放着 `[图片3]` 中的精致琥珀色香水瓶...真人古风写真风格，电影级光影质感。 | [查看视频 - 完整版](https://alidocs.dingtalk.com/i/nodes/93NwLYZXWyxXroNzCQ6qjnNk8kyEqBQm?anchorId=X02moi555lxifhx9727mi) |
-| 宋代宫廷内景，华丽但幽暗的宫室，烛光摇曳。`[图1]` 皇后带两名侍女踏入正厅，抬袖掩鼻，轻蔑打量。`[图2]` 贵妃从容从袖中取出蓝色精华液瓶...多镜头切换，保持角色人物一致性。 | [查看视频 20s](https://alidocs.dingtalk.com/i/nodes/93NwLYZXWyxXroNzCQ6qjnNk8kyEqBQm?anchorId=X02mojojoy79kvntk52fj6) · [查看视频 10s×2](https://alidocs.dingtalk.com/i/nodes/93NwLYZXWyxXroNzCQ6qjnNk8kyEqBQm) |
+| 4s 1080P R2V：参考王爷与丫头形象，古风书房暖光场景... | [🎬 case_01_period_perfume_ad.mp4](videos/README.md#应用场景案例) |
+| 宋代宫廷内景，皇后与贵妃，蓝鱼子精华带货... | [🎬 case_02_palace_skincare_ad.mp4](videos/README.md#应用场景案例) |
 
 ---
 
