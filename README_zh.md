@@ -52,9 +52,7 @@ HappyHorse 1.0 致力于为创作者与企业提供稳定、高效、可控的�
 
 | Input (Text) 输入文字 | Output Video 输出视频 |
 | --- | --- |
-| 动漫风格，国风2d风格... | [🎬 t2v_01_guofeng_girl.mp4](videos/README.md#t2v-文生视频) |
-
-<video src="https://raw.githubusercontent.com/chenxing3060/awesome-happyhorse-use/main/videos/t2v_01_guofeng_girl.mp4" controls width="100%"></video>
+| 动漫风格，国风2d风格... | [▶️ 点击播放](https://github.com/chenxing3060/awesome-happyhorse-use/blob/main/videos/t2v_01_guofeng_girl.mp4) |
 
 | 全景，新海诚风格... | [🎬 t2v_02_makoto_shinkai.mp4](videos/README.md#t2v-文生视频) |
 | 主题与动作：一场电影般的武术对决... | [🎬 t2v_03_minecraft_fight.mp4](videos/README.md#t2v-文生视频) |
